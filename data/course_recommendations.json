@@ -1,0 +1,102 @@
+{
+  "sql": {
+    "course": "SQL for Data Science",
+    "platform": "Coursera",
+    "url": "https://www.coursera.org/learn/sql-for-data-science"
+  },
+  "excel": {
+    "course": "Excel Skills for Business",
+    "platform": "Coursera",
+    "url": "https://www.coursera.org/specializations/excel"
+  },
+  "power bi": {
+    "course": "Power BI Essential Training",
+    "platform": "LinkedIn Learning",
+    "url": "https://www.linkedin.com/learning/power-bi-essential-training"
+  },
+  "tableau": {
+    "course": "Tableau A-Z: Hands-On Tableau Training",
+    "platform": "Udemy",
+    "url": "https://www.udemy.com/course/tableau10/"
+  },
+  "python": {
+    "course": "Python for Everybody",
+    "platform": "Coursera",
+    "url": "https://www.coursera.org/specializations/python"
+  },
+  "pandas": {
+    "course": "Data Analysis with Python",
+    "platform": "freeCodeCamp",
+    "url": "https://www.freecodecamp.org/learn/data-analysis-with-python/"
+  },
+  "numpy": {
+    "course": "Intro to NumPy",
+    "platform": "DataCamp",
+    "url": "https://www.datacamp.com/courses/intro-to-numpy"
+  },
+  "scikit-learn": {
+    "course": "Machine Learning with Scikit-Learn",
+    "platform": "Udemy",
+    "url": "https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/"
+  },
+  "tensorflow": {
+    "course": "DeepLearning.AI TensorFlow Developer",
+    "platform": "Coursera",
+    "url": "https://www.coursera.org/professional-certificates/tensorflow-in-practice"
+  },
+  "statistics": {
+    "course": "Intro to Statistics",
+    "platform": "Stanford / edX",
+    "url": "https://online.stanford.edu/courses/sohs-ystatslearning"
+  },
+  "html": {
+    "course": "HTML Fundamentals",
+    "platform": "SoloLearn",
+    "url": "https://www.sololearn.com/en/learn/courses/html-introduction"
+  },
+  "css": {
+    "course": "CSS - The Complete Guide",
+    "platform": "Udemy",
+    "url": "https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/"
+  },
+  "javascript": {
+    "course": "The Complete JavaScript Course 2024",
+    "platform": "Udemy",
+    "url": "https://www.udemy.com/course/the-complete-javascript-course/"
+  },
+  "react": {
+    "course": "React Basics",
+    "platform": "Coursera",
+    "url": "https://www.coursera.org/learn/react-basics"
+  },
+  "git": {
+    "course": "Git Essentials",
+    "platform": "LinkedIn Learning",
+    "url": "https://www.linkedin.com/learning/learning-git-and-github"
+  },
+  "node.js": {
+    "course": "The Complete Node.js Developer Course",
+    "platform": "Udemy",
+    "url": "https://www.udemy.com/course/the-complete-nodejs-developer-course-2/"
+  },
+  "matplotlib": {
+    "course": "Python Data Visualization with Matplotlib",
+    "platform": "Coursera",
+    "url": "https://www.coursera.org/learn/python-for-data-visualization"
+  },
+  "docker": {
+    "course": "Docker for Beginners",
+    "platform": "Coursera",
+    "url": "https://www.coursera.org/learn/docker"
+  },
+  "linux": {
+    "course": "Linux for Beginners",
+    "platform": "Udemy",
+    "url": "https://www.udemy.com/course/linux-for-beginners/"
+  },
+  "mongodb": {
+    "course": "MongoDB Basics",
+    "platform": "MongoDB University",
+    "url": "https://learn.mongodb.com/learning-paths/mongodb-basics"
+  }
+}
