@@ -1,4 +1,0 @@
-streamlit
-spacy
-PyMuPDF
-pandas

@@ -1,0 +1,14 @@
+# Virtual environment
+venv/
+_pycache_/
+
+# OS files
+.DS_Store
+
+# Streamlit temp files
+resumes/
+*.pyc
+
+# Python bytecode
+*.pyo
+*.pyd
